@@ -51,7 +51,6 @@
 
 // Define package and executable related info
 #define BUILD_NAME      "Mifare Classic DarkSide Key Recovery Tool"
-#define BUILD_VERSION   "0.3"
 #define BUILD_AUTHOR    "Andrei Costin, zveriu@gmail.com, http://andreicostin.com"
 
 // Define return statuses
